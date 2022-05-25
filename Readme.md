@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/34/user/2128173).
-* Наставник: `Неизвестно`.
+* Студент: [Григорий Шестаков](https://up.htmlacademy.ru/htmlcss/34/user/2128173).
+* Наставник:[Павел Нюкало](https://htmlacademy.ru/profile/nyukalopavel).
 
 ---
 
